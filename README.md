@@ -1,8 +1,11 @@
 # faceverify
-人脸考勤产品   后台接口<br><br>
+
+人脸考勤产品   第一个后台接口开发项目
 
 
-涉及技术：<br>
-1、Springboot后台开发（接口开发，涉及Hibernate）<br>
-2、Redis缓存（实现token验证）<br>
-3、java实现七牛云CDN静态资源上传（数据的动静分离）<br>
+涉及技术：
+1. **Springboot**后台接口开发（涉及Hibernate、JPA）
+2. **Redis**缓存（实现**token验证**）
+3. java实现七牛云CDN静态资源上传（数据的动静分离，**七牛API的解读**）
+
+
